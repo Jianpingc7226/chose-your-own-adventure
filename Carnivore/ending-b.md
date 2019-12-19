@@ -2,6 +2,6 @@
 ---
 # Choose what do you think can help you survive
 ---
-## A. [Grow fur](half-end.md.md)
+## A. [Grow fur](half-end.md)
 ## B. [Grow teeth](bed-ending.md)
 ---
