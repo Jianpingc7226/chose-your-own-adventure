@@ -5,4 +5,3 @@
 ## [Carnivore](Carnivore/Carnivore.md)
 ## [Herbivore](Herbivore/Herbivore.md)
 ---
-Start Over
